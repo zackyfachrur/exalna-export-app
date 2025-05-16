@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@layer components {
+    .containers {
+        width: 1200px;
+     }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f2f4f9;
+    color: rgb(39, 39, 39);
+}
+
+select.no-arrow {
+  appearance: none;         /* CSS standar */
+  -webkit-appearance: none; /* Safari/Chrome */
+  -moz-appearance: none;    /* Firefox */
+  background-image: none;   /* Pastikan tidak ada ikon latar */
+}
+
+/* Untuk Chrome, Safari, Edge, Opera */
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Untuk Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.animate {
+    transition: all ease-in-out 0.1s;
+}
+
+.loader {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    border-top: 2px solid #155DFC;
+    border-right: 2px solid transparent;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+  }
+  .loader::after {
+    content: '';  
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid transparent;
+  }
+  @keyframes rotation {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  } 
+
+  /* Sidebar Animate */
+  .sidebar-animate {
+    transition: all .75s;
+  }
+
+  .sidebar-animate.preEnter,
+  .sidebar-animate.exiting {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+
+  /* End Sidebar Animate */
