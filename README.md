@@ -1,5 +1,5 @@
 
-# Exalna Apps
+# Exalna Apps - Solusi IT Keliling - GSC Team 4 Projects
 
 <img src="https://raw.githubusercontent.com/zackyfachrur/exalna-export-app/main/fe-exalna-export/public/Welcome-Images.jpeg" style="width:100%;">
 
