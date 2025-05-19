@@ -18,7 +18,7 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 ## Tech Stack
 
 <div style="overflow-x:auto;">
-  <table style="width:100%; border-collapse: collapse; min-width: 1000px;">
+  <table style="width:100%; border-collapse: collapse; min-width: 2000px;">
     <thead>
       <tr>
         <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Layer</th>
