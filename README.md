@@ -51,6 +51,13 @@ cd exalna-export-app
 
 ### Front-end Setup (fe-exalna-export)
 
+- Create a `.env` file inside the `fe-exalna-export` folder with the following content (replace with your own values):
+
+```env
+VITE_CHATBOT_API_URL=http://localhost:3000/chat
+VITE_GOOGLE_CLIENT_ID=your_google_oauth_client_id_here
+```
+
 #### Using npm
 ```bash
 cd fe-exalna-export
@@ -147,5 +154,6 @@ CREATE TABLE chat_logs (
 
 #### Feel free to open issues or submit pull requests for improvements.
 #### Happy coding! 🚀
+
 
 
