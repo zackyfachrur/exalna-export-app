@@ -18,18 +18,54 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 ## Tech Stack
 
 <div style="overflow-x:auto;">
-
-| Layer           | Description                          | Tools & Libraries                                            |
-|-----------------|------------------------------------|--------------------------------------------------------------|
-| **Front-end**      | User interface & client logic       | React 18, Vite, TypeScript, Tailwind CSS, Redux, Framer Motion, Google OAuth Provider |
-| **Back-end**       | API server & business logic          | Go Fiber, Gin (REST API)                                     |
-| **Database**       | Data storage & ORM                   | MySQL 8, GORM                                               |
-| **Authentication** | User authentication & authorization | JWT, Bcrypt                                                 |
-| **AI / ML**        | Artificial intelligence & machine learning integration | Gemini API                                                 |
-| **State Management** | Client state synchronization        | React Query                                                |
-| **Tooling**        | Development tools & automation        | ESLint, Prettier, Husky, Vite PWA                          |
-
+  <table style="width:100%; border-collapse: collapse; min-width: 600px;">
+    <thead>
+      <tr>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Layer</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Description</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Tools & Libraries</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Front-end</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">User interface & client logic</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">React 18, Vite, TypeScript, Tailwind CSS, Redux, Framer Motion, Google OAuth Provider</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Back-end</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">API server & business logic</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Go Fiber, Gin (REST API)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Database</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Data storage & ORM</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">MySQL 8, GORM</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Authentication</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">User authentication & authorization</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">JWT, Bcrypt</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">AI / ML</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Artificial intelligence & machine learning integration</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Gemini API</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">State Management</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Client state synchronization</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">React Query</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Tooling</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Development tools & automation</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">ESLint, Prettier, Husky, Vite PWA</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 ‎ 
 ## Installation
