@@ -192,8 +192,8 @@ CREATE TABLE chat_logs (
 ```
 ----
 
-#### Feel free to open issues or submit pull requests for improvements.
-#### Happy coding! 🚀
+Feel free to open issues or submit pull requests for improvements.
+Happy coding! 🚀
 
 
 
