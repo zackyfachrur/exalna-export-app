@@ -19,13 +19,11 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 
 <div style="overflow-x:auto;">
   <table style="width:100%; border-collapse: collapse; min-width: 2000px;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 20%;">Layer</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 80%;">Tools & Libraries</th>
-      </tr>
-    </thead>
     <tbody>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 20%; font-weight: bold;">Layer</td>
+        <td style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 80%; font-weight: bold;">Tools & Libraries</td>
+      </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">Front-end</td>
         <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">React 18, Vite, TypeScript, Tailwind CSS, Framer Motion</td>
@@ -57,6 +55,7 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
     </tbody>
   </table>
 </div>
+
 
 
 
