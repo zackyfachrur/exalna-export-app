@@ -16,46 +16,16 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 
 ‎ 
 ## Tech Stack
-<div style="overflow-x:auto; border: 1px solid #ddd; border-radius: 4px;">
-  <div style="display: grid; 
-              grid-template-columns: repeat(7, minmax(150px, 1fr)); 
-              min-width: 1200px;
-              border-bottom: 1px solid #ddd;
-              background-color: #f9f9f9;
-              font-weight: bold;
-              padding: 8px 0;">
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">Front-end</div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">Back-end</div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">Data storage & ORM</div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">User authentication & authorization</div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">AI / ML</div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd;">State Management</div>
-    <div style="padding: 8px 16px;">Tooling</div>
-  </div>
-  <div style="display: grid; grid-template-columns: repeat(7, minmax(150px, 1fr)); min-width: 1200px;">
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      React 18, Vite, TypeScript, Tailwind CSS, Framer Motion
-    </div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      Go Fiber, Gin (REST API)
-    </div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      MySQL 8, GORM
-    </div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      JWT, Bcrypt, Google OAuth Provider
-    </div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      Gemini API
-    </div>
-    <div style="padding: 8px 16px; border-right: 1px solid #ddd; border-top: 1px solid #ddd;">
-      React Query, React Redux
-    </div>
-    <div style="padding: 8px 16px; border-top: 1px solid #ddd;">
-      ESLint, Prettier, Husky, Vite PWA, Git
-    </div>
-  </div>
-</div>
+| Layer                           | Tools & Libraries                                   |
+|--------------------------------|----------------------------------------------------|
+| Front-end                      | React 18, Vite, TypeScript, Tailwind CSS, Framer Motion |
+| Back-end                      | Go Fiber, Gin (REST API)                           |
+| Data storage & ORM             | MySQL 8, GORM                                     |
+| User authentication & authorization | JWT, Bcrypt, Google OAuth Provider            |
+| AI / ML                       | Gemini API                                        |
+| State Management              | React Query, React Redux                          |
+| Tooling                      | ESLint, Prettier, Husky, Vite PWA, Git           |
+
 
 
 
