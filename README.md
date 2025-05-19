@@ -23,7 +23,7 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 | **Back-end**       | API server & business logic          | Go Fiber, Gin (REST API)                                     |
 | **Database**       | Data storage & ORM                   | MySQL 8, GORM                                               |
 | **Authentication** | User authentication & authorization | JWT, Bcrypt                                                 |
-| **AI / ML**        | Artificial intelligence & machine learning integration | OpenAI, Gemini API, LangChain-Go (or LangChain-TS on front-end) |
+| **AI / ML**        | Artificial intelligence & machine learning integration | Gemini API, LangChain-Go (or LangChain-TS on front-end) |
 | **State Management** | Client state synchronization        | React Query                                                |
 | **Tooling**        | Development tools & automation        | ESLint, Prettier, Husky, Vite PWA                          |
 
