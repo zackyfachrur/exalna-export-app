@@ -17,15 +17,19 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 ‎ 
 ## Tech Stack
 
-| Layer           |  Tools & Libraries                                            |
-|-----------------|--------------------------------------------------------------------------------------|
-| **Front-end**      | React 18, Vite, TypeScript, Tailwind CSS, Redux, Framer Motion, Google OAuth Provider |
-| **Back-end**       | Go Fiber, Gin (REST API)                                     |
-| **Database**       | MySQL 8, GORM                                               |
-| **Authentication** | JWT, Bcrypt                                                 |
-| **AI / ML**        | Gemini API |
-| **State Management** | React Query                                                |
-| **Tooling**        | ESLint, Prettier, Husky, Vite PWA                          |
+<div style="overflow-x:auto;">
+
+| Layer           | Description                          | Tools & Libraries                                            |
+|-----------------|------------------------------------|--------------------------------------------------------------|
+| **Front-end**      | User interface & client logic       | React 18, Vite, TypeScript, Tailwind CSS, Redux, Framer Motion, Google OAuth Provider |
+| **Back-end**       | API server & business logic          | Go Fiber, Gin (REST API)                                     |
+| **Database**       | Data storage & ORM                   | MySQL 8, GORM                                               |
+| **Authentication** | User authentication & authorization | JWT, Bcrypt                                                 |
+| **AI / ML**        | Artificial intelligence & machine learning integration | Gemini API                                                 |
+| **State Management** | Client state synchronization        | React Query                                                |
+| **Tooling**        | Development tools & automation        | ESLint, Prettier, Husky, Vite PWA                          |
+
+</div>
 
 ‎ 
 ## Installation
