@@ -19,42 +19,32 @@ Global trade and cross-border e-commerce are surging, yet many firms remain side
 
 <div style="overflow-x:auto;">
   <table style="width:100%; border-collapse: collapse; min-width: 2000px;">
+    <thead>
+      <tr>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">Front-end</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">Back-end</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">Data storage & ORM</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">User authentication & authorization</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">AI / ML</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">State Management</th>
+        <th style="border: 1px solid #ddd; padding: 8px; width: 14.28%;">Tooling</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 20%; font-weight: bold;">Layer</td>
-        <td style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 80%; font-weight: bold;">Tools & Libraries</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">Front-end</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">React 18, Vite, TypeScript, Tailwind CSS, Framer Motion</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">Back-end</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">Go Fiber, Gin (REST API)</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">Data storage & ORM</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">MySQL 8, GORM</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">User authentication & authorization</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">JWT, Bcrypt, Google OAuth Provider</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">AI / ML</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">Gemini API</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">State Management</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">React Query, React Redux</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 20%;">Tooling</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 80%;">ESLint, Prettier, Husky, Vite PWA, Git</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">React 18, Vite, TypeScript, Tailwind CSS, Framer Motion</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Go Fiber, Gin (REST API)</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">MySQL 8, GORM</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">JWT, Bcrypt, Google OAuth Provider</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Gemini API</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">React Query, React Redux</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">ESLint, Prettier, Husky, Vite PWA, Git</td>
       </tr>
     </tbody>
   </table>
 </div>
+
+
 
 
 
